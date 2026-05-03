@@ -120,8 +120,8 @@ export default function CertificatesSection() {
   // Configurar metadatos para la página de certificaciones
   useMetaTags(pageMetadata.certifications);
 
-  const handleGoBack = () => {
-    navigate(-1);
+const handleGoBack = () => {
+  navigate('/portafolio-fran/');
   };
 
   return (

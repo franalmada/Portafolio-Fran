@@ -411,7 +411,7 @@ const cardComponents = {
 // Main Component
 export default function ProjectBentoGrid() {
   const handleGoBack = useCallback(() => {
-    window.location.href = '/';
+  window.location.href = '/portafolio-fran/';
   }, []);
 
   return (

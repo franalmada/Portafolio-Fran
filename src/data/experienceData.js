@@ -2,7 +2,7 @@ export const itemExperience = [
   {
     title: "Desarrollador Backend / SaaS",
     company: "SalonPro (Proyecto Independiente)",
-    date: "Octubre 2025 - Actualidad",
+    date: "Octubre 2025 - Noviembre 2025",
     description:
       "Desarrollo una plataforma SaaS para gestión de turnos utilizando Next.js y API routes. Implemento persistencia en la nube con Vercel Postgres (PostgreSQL) y un sistema de validación en tiempo real. El enfoque principal es la escalabilidad y la seguridad en la autenticación para ofrecer una solución robusta a múltiples negocios locales.",
   },
@@ -23,14 +23,14 @@ export const itemExperience = [
   {
     title: "Desarrollador Front-End",
     company: "UNAE (Proyecto de Grado)",
-    date: "Febrero 2024 - Noviembre 2024",
+    date: "Agosto 2025 - Diciembre 2025",
     description:
       "Desarrollé una plataforma gamificada para el aprendizaje de aritmética destinada a niños de tercer grado. Utilicé JavaScript moderno y CSS3 para crear una interfaz interactiva y responsive. El proyecto incluyó pruebas de usuario con docentes y estudiantes, resultando en una aprobación con distinción por su impacto pedagógico.",
   },
   {
     title: "Desarrollador Full-Stack",
     company: "TaskFlow Pro / Open Source",
-    date: "Septiembre 2025 - Diciembre 2025",
+    date: "Enero 2026 - Febrero 2026",
     description: 
       "Creé una aplicación de productividad profesional con Next.js 14 y TypeScript. Implementé el uso de App Router y Server Components para optimizar el rendimiento. El proyecto destaca por su código modular y documentado en GitHub, enfocado en la gestión eficiente de tareas con una interfaz moderna en Tailwind CSS.",
   },

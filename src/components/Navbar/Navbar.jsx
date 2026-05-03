@@ -145,15 +145,15 @@ const Navbar = () => {
                 `}
               >
                 {item.isProfile ? (
-                  <img
-                    src="/src/assets/img/foto.png"
-                    alt="Perfil"
-                    className={`
-                      w-[110%] h-[110%] object-cover rounded-full scale-110 max-md:w-[100%] max-md:h-[100%] max-md:scale-100
-                      transition-all duration-300 ease-in-out
-                      ${isActive ? 'opacity-100' : 'opacity-60'}
-                      group-hover:opacity-100
-                    `}
+  <img
+    src="./logo.png"
+    alt="Perfil"
+    className={`
+      w-[90%] h-[90%] object-contain rounded-full max-md:w-[90%] max-md:h-[90%]
+      transition-all duration-300 ease-in-out
+      ${isActive ? 'opacity-100' : 'opacity-60'}
+      group-hover:opacity-100
+    `}
                   />
                 ) : (
                   <IconComponent

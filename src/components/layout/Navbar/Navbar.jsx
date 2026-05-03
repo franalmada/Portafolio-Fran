@@ -162,10 +162,10 @@ const sections = ['home', 'experience', 'projects', 'skills', 'education', 'abou
               >
                 {item.isProfile ? (
                   <img
-                    src="/assets/img/foto2.png"
+                    src="./logo.png"
                     alt="Perfil"
                     className={`
-                      w-[110%] h-[110%] object-cover rounded-full scale-110 max-md:w-[100%] max-md:h-[100%] max-md:scale-100
+                      w-[80%] h-[80%] object-cover rounded-full scale-110 max-md:w-[100%] max-md:h-[100%] max-md:scale-100
                       transition-all duration-300 ease-in-out
                       ${isActive ? 'opacity-100' : 'opacity-60'}
                       group-hover:opacity-100

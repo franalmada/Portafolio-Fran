@@ -53,10 +53,12 @@ const ProfileSection = () => {
             </div>
 
             {/* Descripción */}
-            <p className="text-sm md:text-base leading-relaxed text-gray-300 max-w-2xl mb-6 md:mb-8 mx-auto md:mx-0">
-              Hola, soy Francisco, <strong>Licenciado en Análisis de Sistemas Informáticos</strong> y un desarrollador de software apasionado por la tecnología y la innovación. 
-              Me especializo en crear aplicaciones web modernas, eficientes y escalables usando las últimas tecnologías.
-            </p>
+       <p className="text-sm md:text-base leading-relaxed text-gray-300 max-w-2xl mb-6 md:mb-8 mx-auto md:mx-0">
+              Construyo lo que imaginas. Transformo ideas en código. 
+              Desarrollo experiencias web rápidas, 
+              intuitivas y bien construidas. Cada línea suma para resolver problemas reales. Me mueve la 
+              curiosidad técnica y el deseo de hacer herramientas digitales con propósito.
+          </p>
 
             {/* Botones de Contacto */}
             <nav aria-label="Enlaces de contacto y perfil profesional">
